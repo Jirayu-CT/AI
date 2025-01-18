@@ -1,0 +1,52 @@
+{
+    "disease": "Depression",
+    "overview": {
+        "description": "Depression is a common but serious mood disorder that affects how you feel, think, and handle daily activities.",
+        "symptoms": [
+            "Persistent sadness or low mood",
+            "Loss of interest in activities once enjoyed",
+            "Fatigue or lack of energy",
+            "Changes in appetite or weight",
+            "Sleep disturbances (insomnia or oversleeping)",
+            "Thoughts of death or suicide"
+        ],
+        "causes": [
+            "Genetic factors",
+            "Biological changes in the brain",
+            "Environmental stressors (e.g., trauma, abuse, or a stressful life event)",
+            "Chronic medical conditions (e.g., diabetes, heart disease)"
+        ]
+    },
+    "treatment": {
+        "medications": [
+            "Antidepressants (e.g., SSRIs, SNRIs)",
+            "Mood stabilizers",
+            "Antipsychotics"
+        ],
+        "therapy": [
+            "Cognitive Behavioral Therapy (CBT)",
+            "Interpersonal Therapy (IPT)",
+            "Psychodynamic Therapy"
+        ],
+        "lifestyle": [
+            "Regular physical activity",
+            "Healthy diet",
+            "Stress management techniques",
+            "Social support"
+        ]
+    },
+    "statistics": {
+        "global_prevalence": "Depression affects over 264 million people worldwide.",
+        "gender_difference": "Women are more likely to experience depression than men."
+    },
+    "resources": [
+        {
+            "name": "National Institute of Mental Health",
+            "link": "https://www.nimh.nih.gov/health/topics/depression"
+        },
+        {
+            "name": "World Health Organization - Depression",
+            "link": "https://www.who.int/news-room/fact-sheets/detail/depression"
+        }
+    ]
+}
