@@ -1,52 +1,52 @@
 {
-    "disease": "Depression",
-    "overview": {
-        "description": "Depression is a common but serious mood disorder that affects how you feel, think, and handle daily activities.",
-        "symptoms": [
-            "Persistent sadness or low mood",
-            "Loss of interest in activities once enjoyed",
-            "Fatigue or lack of energy",
-            "Changes in appetite or weight",
-            "Sleep disturbances (insomnia or oversleeping)",
-            "Thoughts of death or suicide"
+    "โรค": "โรคซึมเศร้า",
+    "ภาพรวม": {
+        "คำอธิบาย": "โรคซึมเศร้าเป็นภาวะอารมณ์ผิดปกติที่ทำให้ผู้ป่วยรู้สึกเศร้าหรือหมดกำลังใจอย่างต่อเนื่อง มีผลกระทบต่อความคิด การตัดสินใจ และการทำกิจวัตรประจำวัน",
+        "อาการ": [
+            "รู้สึกเศร้าหรือหมดกำลังใจอย่างต่อเนื่อง",
+            "สูญเสียความสนใจในกิจกรรมที่เคยชอบ",
+            "รู้สึกเหนื่อยล้าหรือไม่มีพลัง",
+            "การเปลี่ยนแปลงในความอยากอาหารหรือน้ำหนัก",
+            "มีปัญหาการนอนหลับ (นอนไม่หลับหรือหลับมากเกินไป)",
+            "มีความคิดเกี่ยวกับการฆ่าตัวตายหรืออยากตาย"
         ],
-        "causes": [
-            "Genetic factors",
-            "Biological changes in the brain",
-            "Environmental stressors (e.g., trauma, abuse, or a stressful life event)",
-            "Chronic medical conditions (e.g., diabetes, heart disease)"
+        "สาเหตุ": [
+            "ปัจจัยทางพันธุกรรม",
+            "การเปลี่ยนแปลงทางชีวภาพในสมอง",
+            "ความเครียดจากสภาพแวดล้อม (เช่น ประสบการณ์ที่ไม่ดีหรือเหตุการณ์ชีวิตที่เครียด)",
+            "โรคเรื้อรังบางชนิด (เช่น เบาหวาน หรือโรคหัวใจ)"
         ]
     },
-    "treatment": {
-        "medications": [
-            "Antidepressants (e.g., SSRIs, SNRIs)",
-            "Mood stabilizers",
-            "Antipsychotics"
+    "การรักษา": {
+        "ยา": [
+            "ยาต้านซึมเศร้า (เช่น SSRIs, SNRIs)",
+            "ยาควบคุมอารมณ์",
+            "ยาต้านจิตประสาท"
         ],
-        "therapy": [
-            "Cognitive Behavioral Therapy (CBT)",
-            "Interpersonal Therapy (IPT)",
-            "Psychodynamic Therapy"
+        "การบำบัด": [
+            "การบำบัดด้วยการปรับพฤติกรรมทางความคิด (CBT)",
+            "การบำบัดทางสังคม (IPT)",
+            "การบำบัดจิตวิเคราะห์"
         ],
-        "lifestyle": [
-            "Regular physical activity",
-            "Healthy diet",
-            "Stress management techniques",
-            "Social support"
+        "การปรับวิถีชีวิต": [
+            "การออกกำลังกายเป็นประจำ",
+            "การรับประทานอาหารที่มีประโยชน์",
+            "การจัดการความเครียด",
+            "การมีการสนับสนุนทางสังคม"
         ]
     },
-    "statistics": {
-        "global_prevalence": "Depression affects over 264 million people worldwide.",
-        "gender_difference": "Women are more likely to experience depression than men."
+    "สถิติ": {
+        "อัตราความชุก": "โรคซึมเศร้ามีผลกระทบต่อผู้คนมากกว่า 264 ล้านคนทั่วโลก",
+        "ความแตกต่างทางเพศ": "ผู้หญิงมีโอกาสเป็นโรคซึมเศร้ามากกว่าผู้ชาย"
     },
-    "resources": [
+    "แหล่งข้อมูล": [
         {
-            "name": "National Institute of Mental Health",
-            "link": "https://www.nimh.nih.gov/health/topics/depression"
+            "ชื่อ": "สถาบันสุขภาพจิตแห่งชาติ",
+            "ลิงก์": "https://www.nmh.or.th"
         },
         {
-            "name": "World Health Organization - Depression",
-            "link": "https://www.who.int/news-room/fact-sheets/detail/depression"
+            "ชื่อ": "องค์การอนามัยโลก (WHO) - โรคซึมเศร้า",
+            "ลิงก์": "https://www.who.int/news-room/fact-sheets/detail/depression"
         }
     ]
 }
